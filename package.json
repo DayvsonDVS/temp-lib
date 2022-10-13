@@ -1,0 +1,22 @@
+{
+  "name": "temp-lib",
+  "version": "1.0.0",
+  "description": "A teste lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayvsonDVS/temp-lib.git"
+  },
+  "keywords": [
+    "temp-lib-dvs"
+  ],
+  "author": "dayvson_dvs <dayvson_dvs@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DayvsonDVS/temp-lib/issues"
+  },
+  "homepage": "https://github.com/DayvsonDVS/temp-lib#readme"
+}
