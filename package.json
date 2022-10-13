@@ -1,8 +1,8 @@
 {
   "name": "temp-lib-1",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "A teste lib",
-  "main": "index.js",
+  "main": "Sum.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
