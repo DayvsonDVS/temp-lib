@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DayvsonDVS/temp-lib/issues"
   },
-  "homepage": "https://github.com/DayvsonDVS/temp-lib#readme"
+  "homepage": "https://github.com/DayvsonDVS/temp-lib#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.5"
+  }
 }

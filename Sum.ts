@@ -1,6 +1,9 @@
-const calc = {
-  Sum: (n1: number, n2: number) => n1 + n2,
-  Sub: (n1: number, n2: number) => n1 - n2
+function Sum(n1: number, n2: number) {
+  n1 + n2
+}
+function Sub(n1: number, n2: number) {
+  n1 - n2
 }
 
-export default calc
+module.exports = Sum
+module.exports = Sub
